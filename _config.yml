@@ -1,7 +1,7 @@
 name: garf
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.70462
+layout_spectrum: 0
+typography_spectrum: 1
 title: Garf OÜ
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#fdfef6'
     - '#233a6c'
   brandStrength: 0
-  lightness: 0.5625
+  lightness: 0.625
   saturation: 0
-  rhythmicContrast: 1
+  rhythmicContrast: 0.25
 purpose: []

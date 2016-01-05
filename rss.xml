@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Testing the Grid]]></title>
-        <description><![CDATA[Testing the Grid]]></description>
+        <title><![CDATA[Garf OÜ]]></title>
+        <description><![CDATA[Garf OÜ]]></description>
         <link>https://thegrid.ai/garf/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 14:41:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2016 14:44:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/garf/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Garf OÜ]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[Hello, world!]]></title>
-            <description><![CDATA[<article><h1>Hello, world!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/901f776934f740704b84a16692f768c11f22a446.jpg"></article>]]></description>
+            <description><![CDATA[<h1>Hello, world!</h1>]]></description>
             <link>https://thegrid.ai/garf/hello-world/index.html</link>
             <guid isPermaLink="false">c4061357-a361-4d4e-8e68-060797264352</guid>
-            <pubDate>Tue, 05 Jan 2016 14:41:03 GMT</pubDate>
+            <pubDate>Tue, 05 Jan 2016 14:44:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
